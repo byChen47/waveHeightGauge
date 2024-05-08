@@ -1,0 +1,2 @@
+# waveHeightGauge
+这个主要是教大家怎么在自定义的波浪求解器中使用wave2foam的波高仪对波高进行监测
